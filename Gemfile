@@ -4,6 +4,8 @@ gem 'haml', '~> 4.0.5'
 gem 'bootstrap-sass', '~> 3.2.0.2'
 gem 'simple_form', '~> 3.0.2'
 gem 'devise', '~> 3.4.0'
+gem 'paperclip', '~> 4.2.0'
+gem "mini_magick"
 
 gem 'rails', '4.2.0'
 
