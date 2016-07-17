@@ -6,7 +6,7 @@ gem 'simple_form', '~> 3.0.2'
 gem 'devise', '~> 3.4.0'
 gem 'paperclip', '~> 4.2.0'
 gem "mini_magick"
-
+gem 'masonry-rails', '~> 0.2.1'
 gem 'rails', '4.2.0'
 
 gem 'sqlite3'
